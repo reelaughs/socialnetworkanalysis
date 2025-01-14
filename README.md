@@ -1,4 +1,4 @@
-# social network analysis
+# Social network analysis
 Assignment for MSc Information Systems at NTU, for the module Graph Analysis, Learning and Applications. 
 
 The task required the analysis two real-world social networks using NetworkX (Python package). THe first was an undirected graph via a downloaded Facebook dataset retrieved from https://snap.stanford.edu/data/ego-Facebook.html. THe second was a directed graph via an Epinions dataset retrieved from https://snap.stanford.edu/data/soc-Epinions1.html. I also put together a report discussing findings and patterns derived from the analysis.
@@ -13,6 +13,7 @@ For each dataset, we were required to compute, analyse and present in particular
 ![image](https://github.com/user-attachments/assets/3a48ca9a-04b0-4292-8df8-15b59dfb89ce)
 
 **Graph 2 (directed) degree distribution**
+
 ![image](https://github.com/user-attachments/assets/7c8c1525-9f46-4482-9510-316baf1d97ed)
 
 For in and out degrees respectively with in-degree being represented by the green and
