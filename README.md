@@ -3,7 +3,7 @@ Assignment for MSc Information Systems at NTU, for the module Graph Analysis, Le
 
 The task required the analysis two real-world social networks using NetworkX (Python package). The first was an undirected graph via a downloaded Facebook dataset retrieved from https://snap.stanford.edu/data/ego-Facebook.html. THe second was a directed graph via an Epinions dataset retrieved from https://snap.stanford.edu/data/soc-Epinions1.html. I also put together a report discussing findings and patterns derived from the analysis.
 For each dataset, we were required to compute, analyse and present in particular:
-1) Basic statistics such as the no. of nodes, no. of edges, CLustering coefficient, Graph density, Graph diameter
+1) Basic statistics such as the no. of nodes, no. of edges, Clustering coefficient, Graph density, Graph diameter, Characteristics (eg showing through output or errors that graph is not strongly connected)
 2) Top-5 Nodes by Degree (by In-degree and Out-degree for the Directed graph) 
 3) Node Importance Analysis: Evaluate the importance of these top 5 nodes using centrality measures such as Degree centrality, Closeness centrality, Betweenness centrality, PageRank etc.
 4) Node Similarity Analysis: Assess the similarity between the top 5 nodes using metrics such as Shortest path distance, Common neighbors, Jaccard coefficient, Adamic-Adar index, Resource allocation index etc.
